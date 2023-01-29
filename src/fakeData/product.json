@@ -1,0 +1,141 @@
+[
+	{
+		"id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+		"category": "Men's Sneaker",
+		"name": "ULTRABOOST 22 SHOES",
+		"seller": "Addidas",
+		"price": 420,
+		"stock": 20,
+		"ratings": 4,
+		"ratingsCount": 3725,
+		"img": "https://media.istockphoto.com/id/1400057530/photo/bananas-isolated.jpg?b=1&s=170667a&w=0&k=20&c=uiSdjIQkTr7S4gEdW_oB_5zfFYhpfe0LP-CryQl49w4=",
+		"shipping": 1,
+		"quantity": 0
+	},
+		{
+		"id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+		"category": "Men's Sneaker",
+		"name": "ULTRABOOST 22 SHOES",
+		"seller": "Addidas",
+		"price": 420,
+		"stock": 20,
+		"ratings": 4,
+		"ratingsCount": 3725,
+		"img": "https://www.shutterstock.com/image-photo/red-apple-isolated-on-white-260nw-1727544364.jp",
+		"shipping": 1,
+		"quantity": 0
+	},
+	
+		{
+		"id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+		"category": "Men's Sneaker",
+		"name": "ULTRABOOST 22 SHOES",
+		"seller": "Addidas",
+		"price": 420,
+		"stock": 20,
+		"ratings": 4,
+		"ratingsCount": 3725,
+		"img": "https://api.ebangladesh.com/upload/shop/items/46ec6c80-87e4-11ec-97a8-5d4e1b33cb83/46ec6c80-87e4-11ec-97a8-5d4e1b33cb83.png",
+		"shipping": 1,
+		"quantity": 0
+	},
+	
+		{
+		"id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+		"category": "Men's Sneaker",
+		"name": "ULTRABOOST 22 SHOES",
+		"seller": "Addidas",
+		"price": 420,
+		"stock": 20,
+		"ratings": 4,
+		"ratingsCount": 3725,
+		"img": "https://img.freepik.com/premium-photo/ripe-mango-with-green-leaf-isolated-white_252965-183.jpg?w=2000",
+		"shipping": 1,
+		"quantity": 0
+	},
+	
+		{
+		"id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+		"category": "Men's Sneaker",
+		"name": "ULTRABOOST 22 SHOES",
+		"seller": "Addidas",
+		"price": 420,
+		"stock": 20,
+		"ratings": 4,
+		"ratingsCount": 3725,
+		"img": "https://us.123rf.com/450wm/samreungpila/samreungpila2004/samreungpila200400045/samreungpila200400045.jpg?ver=6",
+		"shipping": 1,
+		"quantity": 0
+	},
+	
+		{
+		"id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+		"category": "Men's Sneaker",
+		"name": "ULTRABOOST 22 SHOES",
+		"seller": "Addidas",
+		"price": 420,
+		"stock": 20,
+		"ratings": 4,
+		"ratingsCount": 3725,
+		"img": "https://i.pinimg.com/736x/05/79/5a/05795a16b647118ffb6629390e995adb.jpg",
+		"shipping": 1,
+		"quantity": 0
+	},
+	
+		{
+		"id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+		"category": "Litchi",
+		"name": "Litchi",
+		"seller": "Fruit",
+		"price": 20,
+		"stock": 20,
+		"ratings": 4,
+		"ratingsCount": 3725,
+		"img": "https://thumbs.dreamstime.com/b/bunch-pink-lychee-fruits-green-leaves-isolated-white-background-bunch-pink-lychee-fruits-green-leaves-257139024.jpg",
+		"shipping": 1,
+		"quantity": 0
+	},
+	
+		{
+		"id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+		"category": "Olive",
+		"name": "Olive",
+		"seller": "Fruit",
+		"price": 420,
+		"stock": 20,
+		"ratings": 4,
+		"ratingsCount": 3725,
+		"img": "https://t4.ftcdn.net/jpg/03/09/64/05/360_F_309640598_DoRELOY9t3HRsYrMeT2LIANfsgGh8TPC.jpg",
+		"shipping": 1,
+		"quantity": 0
+	},
+	
+		{
+		"id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+		"category": "Green Coconat",
+		"name": "Green Coconat",
+		"seller": "Addidas",
+		"price": 2,
+		"stock": 20,
+		"ratings": 4,
+		"ratingsCount": 3725,
+		"img": "https://t4.ftcdn.net/jpg/02/26/28/13/360_F_226281364_GhAtxY8Q3ibW9vnKjdtarBEY2fDxXB6e.jpg",
+		"shipping": 1,
+		"quantity": 0
+	},
+	
+		{
+		"id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+		"category": "Papaya",
+		"name": "Fresh Papaya",
+		"seller": "Fruit",
+		"price": 20,
+		"stock": 20,
+		"ratings": 4,
+		"ratingsCount": 3725,
+		"img": "https://t3.ftcdn.net/jpg/03/42/72/34/360_F_342723481_QLUF3pc1QpdFJBK39UDrDgtiTB6QK2mb.jpg",
+		"shipping": 1,
+		"quantity": 0
+	},
+	
+]
